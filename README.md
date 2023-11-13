@@ -16,8 +16,8 @@ Hola, soy José, un apasionado programador web con sede en España. Tengo experi
 
 ## Contacto
 
-- 📧 **Email:** [tu-email@example.com](mailto:tu-email@example.com)
-- 💼 **LinkedIn:** [tu-linkedin](tu-link-de-linkedin)
+- 📧 **Email:** j3000r@gmail.com(j3000r@gmail.com)
+- 💼 **LinkedIn:** J. L. Rodríguez(https://www.linkedin.com/in/j-l-rodriguez-blanco)
 
 ---
 
