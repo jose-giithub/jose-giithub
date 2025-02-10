@@ -5,14 +5,19 @@ Hola, soy Jose, un apasionado programador web con sede en España. Tengo experie
 ## Acerca de mí
 
 - 🌱 **Aprendizaje Continuo:** Siempre buscando aprender y mejorar mis habilidades.
-- 💻 **Lenguajes de Programación:** Java, JavaScript, HTML, CSS, PHP , Docker.
+- 💻 **Lenguajes de Programación:** Java, PHP, SQL, JavaScript, jQuery, HTML, CSS, PHP , Docker.
+- ⚙️ **Framework:** Laravel.
 - 📚 **Motivación:** Mi objetivo es seguir creciendo profesionalmente en el desarrollo web.
 
 ## Habilidades
 
 - **Java:** Experiencia en la construcción de aplicaciones robustas.
-- **JavaScript:** Habilidades para crear experiencias de usuario interactivas.
-- **HTML y CSS:** Capacidad para desarrollar páginas web estructuradas y estéticamente agradables.
+- **PHP:** Desarrollo de aplicaciones web dinámicas y gestión de bases de datos.
+- **SQL:** Consultas, gestión y optimización de bases de datos.
+- **JavaScript & jQuery:** Creación de experiencias interactivas en la web.
+- **HTML y CSS:** Desarrollo de páginas web estructuradas y visualmente atractivas.
+- **Docker:** Contenedorización y despliegue eficiente de aplicaciones.
+- **Laravel:** Desarrollo backend con un framework potente y escalable.
 
 ## Contacto
 
