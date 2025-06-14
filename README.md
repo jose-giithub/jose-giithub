@@ -22,7 +22,7 @@ Hola, soy Jose, un apasionado programador web con sede en España. Tengo experie
 ## Contacto
 
 - 📧 **Email:** [j3000trabajo@gmail.com](mailto:j3000trabajo@gmail.com)
-- 🤝 **LinkedIn:** [J. L. Rodríguez](https://www.linkedin.com/in/j-l-rodriguez-blanco)
+- 🤝 **LinkedIn:** [J. L. Rodríguez](https://www.linkedin.com/in/joseperfil)
 - 💼 **Portfolio:** [Mi Portfolio](https://portfolio.jose-rodriguez-blanco.es)
 
 ---
