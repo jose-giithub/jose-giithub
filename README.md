@@ -16,10 +16,9 @@
 → Stack: PHP, JavaScript, SQL, Git/GitHub
 
 🌐 **Desarrollador Voluntario** @ Asociación El Santuari de Reus  
-<!-- → Aplicación Laravel completa en producción: [elsantuari.ejemplo](https://elsantuari.ejemplo)  -->
 → Análisis, diseño, desarrollo, despliegue y administración del servidor  
 → Stack: Laravel, MySQL, Docker, Ubuntu Server
-
+<!-- → Aplicación Laravel completa en producción: [elsantuari.ejemplo](https://elsantuari.ejemplo)  -->
 ---
 
 ### 🚀 Proyectos Destacados
